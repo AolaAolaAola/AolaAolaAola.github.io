@@ -3,15 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "About JinRui"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About me
+      - href: projects.qmd
+        text: projects
+      - href: hobbies.qmd
+        text: My Hobbies
+      - href: reflections.qmd
+        text: GenAI Reflections
 format:
   html:
     theme:

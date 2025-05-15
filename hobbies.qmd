@@ -8,10 +8,10 @@ My main hobby is playing game. I play a wide variety of game, from shooters to j
 
 # Favourite Games
 
-- Atelier Series:
+- <a href="https://en.wikipedia.org/wiki/Atelier_(video_game_series)" target="_blank">Atelier Series</a>:
   - Ryza 1, 2, and 3
   - Sophie 1 and 2
   - Firis
-- Tetris
-- Library of Ruina
-- Monster Hunter World
+- <a href="https://en.wikipedia.org/wiki/Tetris" target="_blank">Tetris</a>
+- <a href="https://lobotomycorp.fandom.com/wiki/Library_of_Ruina" target="_blank">Library of Ruina</a>
+- <a href="https://en.wikipedia.org/wiki/Monster_Hunter:_World" target="_blank">Monster Hunter World</a>

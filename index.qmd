@@ -2,9 +2,11 @@
 title: "About Me"
 ---
 
-My name is Weng JinRui and I am a first year student at SIT. I am studying Information Technology and I am interested in the field of Data Science. I have a keen interest in learning about data analysis, machine learning, and artificial intelligence. I am also interested in web development and programming languages such as Python, R, and SQL.
+My name is Weng Jin Rui and I am a first year student at SIT. I am studying Information Technology and I am interested in the field of Data Science. I have a keen interest in learning about data analysis, machine learning, and artificial intelligence. I am also interested in web development and programming languages such as Python, R, and SQL.
 
 # Index
 - [My Projects](projects.qmd){target="_blank"}
 - [Hobbies](hobbies.qmd){target="_blank"}
 - [Reflections](reflections.qmd){target="_blank"}
+
+![](img/SIT.png){width=80%}
