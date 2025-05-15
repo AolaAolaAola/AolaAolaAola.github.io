@@ -1,5 +1,17 @@
 ---
-title: "hobbies"
+title: "My Hobbies"
 format: html
 ---
 
+# Games
+My main hobby is playing game. I play a wide variety of game, from shooters to jrpgs and classics. <br>
+
+# Favourite Games
+
+- Atelier Series:
+  - Ryza 1, 2, and 3
+  - Sophie 1 and 2
+  - Firis
+- Tetris
+- Library of Ruina
+- Monster Hunter World

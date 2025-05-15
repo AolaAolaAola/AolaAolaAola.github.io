@@ -1,5 +1,11 @@
 ---
-title: "reflections"
+title: "Reflection on the use of GenAI"
 format: html
 ---
+
+# My Experience with GenAI
+My experience with GenAI has been quite positive. I have found it to be a valuable tool for enhancing my learning and productivity. The ability to generate text, code, and even images has opened up new possibilities for me in my studies and projects.
+
+# My opinion on GenAI
+I beleive that GenAI has become a crutch for me in my learning. I feel like I am a prompter for the AI and I have not been properly learning the material. I know in theory how to do things but often fall back on IA to do things for me. I am unable to properly wihtout needing an external reference or help, even if the task is relatively simple. I feel less confident in my abilities and knowledge because of how much I rely on GenAI. I am trying to find a correct balance of GenAI and self-learning. I think that GenAI is a great tool when used properly but often time people over rely on it.
 

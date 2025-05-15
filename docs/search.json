@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "Games\nMy main hobby is playing game. I play a wide variety of game, from shooters to jrpgs and classics. \n\n\nFavourite Games\n\nAtelier Series:\n\nRyza 1, 2, and 3\nSophie 1 and 2\nFiris\n\nTetris\nLibrary of Ruina\nMonster Hunter World"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Before SIT\nBefore enrolling into SIT, I have done a few projects in Polytechnic. I have done a few projects in Python. Some of the most notable one is a kaggle notebook that I have done that make use of data visualization for analysing data of Vtubers at the time."
   }
 ]

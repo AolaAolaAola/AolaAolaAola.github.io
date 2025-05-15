@@ -1,5 +1,7 @@
 ---
-title: "projects"
+title: "My Projects"
 format: html
 ---
+# Before SIT
 
+Before enrolling into SIT, I have done a few projects in Polytechnic. I have done a few projects in Python. Some of the most notable one is a kaggle notebook that I have done that make use of data visualization for analysing data of Vtubers at the time. 
