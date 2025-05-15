@@ -19,7 +19,6 @@ format:
       - brand
     css: styles.css
     toc: true
-    toc: true
     toc-depth: 3
     toc-location: left
 

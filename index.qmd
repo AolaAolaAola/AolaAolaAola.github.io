@@ -1,11 +1,10 @@
 ---
-title: "temp_website"
+title: "About Me"
 ---
 
-This is a Quarto website.
+My name is Weng JinRui and I am a first year student at SIT. I am studying Information Technology and I am interested in the field of Data Science. I have a keen interest in learning about data analysis, machine learning, and artificial intelligence. I am also interested in web development and programming languages such as Python, R, and SQL.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+# Index
+- [My Projects](projects.qmd){target="_blank"}
+- [Hobbies](hobbies.qmd){target="_blank"}
+- [Reflections](reflections.qmd){target="_blank"}
