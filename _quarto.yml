@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: About me
       - href: projects.qmd
-        text: projects
+        text: My Projects
       - href: hobbies.qmd
         text: My Hobbies
       - href: reflections.qmd
